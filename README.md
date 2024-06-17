@@ -1,5 +1,5 @@
 # SQLCheatSheet
-translate SQLCheatSheet from <https://www.runoob.com>
+translate SQLCheatSheet from <https://learnsql.com/>
 
 回顾sql知识时，偶然发现的比较好的cheatsheet，花了点时间翻译为了中文，喜欢的自取。
 
